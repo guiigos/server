@@ -1,0 +1,16 @@
+{
+  "pessoas": [
+    {
+      "nome": "Guilherme",
+      "sobrenome": "Alves",
+      "idade": 18,
+      "genero": "masculino",
+      "rua": "Avenida ...",
+      "numero": "1234",
+      "cep": "00000-000",
+      "cidade": "Toledo",
+      "estado": "PR",
+      "bairro": "Centro"
+    }
+  ]
+}
